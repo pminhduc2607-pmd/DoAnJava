@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "QuanLyCaPhe",
+            "request": "launch",
+            "mainClass": "QuanLyCaPhe",
+            "classPaths": [
+                "${workspaceFolder}",
+                "${workspaceFolder}/lib/mssql-jdbc-13.6.0.jre11.jar"
+            ]
+        }
+    ]
+}
